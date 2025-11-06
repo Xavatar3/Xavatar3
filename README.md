@@ -1,6 +1,7 @@
 # Hi there, I'm Xavatar 👋
 
 ![Profile Badge](https://img.shields.io/badge/Xavatar3-GitHub-blue?logo=github)
+[![Stack Overflow](https://img.shields.io/badge/dynamic/json?color=orange&label=StackOverflow%20Rep&query=items[0].reputation&url=https://api.stackexchange.com/2.3/users/28697856?site=stackoverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/28697856/xavatar)
 ![Top Language](https://img.shields.io/github/languages/top/Xavatar3/Xavatar3)
 ![Repo Size](https://img.shields.io/github/repo-size/Xavatar3/Xavatar3)
 ![Last Commit](https://img.shields.io/github/last-commit/Xavatar3/Xavatar3)
