@@ -1,5 +1,6 @@
 # Hi there, I'm Xavatar 👋
 
+[Code Wars](https://www.codewars.com/users/Xavatar3/badges/large)
 ![Profile Badge](https://img.shields.io/badge/Xavatar3-GitHub-blue?logo=github)
 [![Stack Overflow](https://img.shields.io/badge/dynamic/json?color=orange&label=StackOverflow%20Rep&query=items%5B0%5D.reputation&url=https%3A%2F%2Fapi.stackexchange.com%2F2.3%2Fusers%2F28697856%3Fsite%3Dstackoverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/28697856/xavatar)
 ![Top Language](https://img.shields.io/github/languages/top/Xavatar3/Xavatar3)
