@@ -1,6 +1,7 @@
 ![Code Wars](https://www.codewars.com/users/Xavatar/badges/large)
 
 ![Profile Badge](https://img.shields.io/badge/Xavatar3-GitHub-blue?logo=github)
+[![wakatime](https://wakatime.com/badge/user/36279de1-7781-45ca-938a-825bf65fe90c.svg)](https://wakatime.com/@36279de1-7781-45ca-938a-825bf65fe90c)
 [![Stack Overflow](https://img.shields.io/badge/dynamic/json?color=orange&label=StackOverflow%20Rep&query=items%5B0%5D.reputation&url=https%3A%2F%2Fapi.stackexchange.com%2F2.3%2Fusers%2F28697856%3Fsite%3Dstackoverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/28697856/xavatar)
 ![Top Language](https://img.shields.io/github/languages/top/Xavatar3/Xavatar3)
 ![Repo Size](https://img.shields.io/github/repo-size/Xavatar3/Xavatar3)
