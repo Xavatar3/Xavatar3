@@ -1,13 +1,14 @@
 ![](https://www.codewars.com/users/Xavatar/badges/large)
 
-![](https://komarev.com/ghpvc/?username=Xavatar3&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&abbreviated=true)
-![](https://img.shields.io/github/stars/Xavatar3?cacheSeconds=259200&style=for-the-badge&logo=github)
+![](https://komarev.com/ghpvc/?username=Xavatar3&label=Profile+Views&color=7f52ff&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Xavatar3&label=Profile+Views&color=58A6FF&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Xavatar3&label=Profile+Views&color=2ea043&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Xavatar3&label=Profile+Views&color=f0883e&style=for-the-badge&abbreviated=true)
 ![](https://wakatime.com/badge/user/36279de1-7781-45ca-938a-825bf65fe90c.svg?cacheSeconds=259200&style=for-the-badge&label=WakaTime&logo=github&logoWidth=100)
-![](https://img.shields.io/badge/dynamic/json?cacheSeconds=259200&color=F58025&label=StackOverflow&style=for-the-badge&query=items%5B0%5D.reputation&url=https%3A%2F%2Fapi.stackexchange.com%2F2.3%2Fusers%2F28697856%3Fsite%3Dstackoverflow&logo=stackoverflow)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavatar3&layout=compact&hide_border=true&theme=github_dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Xavatar3&theme=github-dark)
 ![](https://github-profile-trophy.vercel.app/?username=Xavatar3&theme=flat&no-frame=true)
 ![](https://github-readme-stats.vercel.app/api?username=Xavatar3&show_icons=true&hide_border=true)
-
----
 
 ## 🌟 About Me
 I’m an **insatiable philomath** and **tech explorer** with a deep passion for **science, computers, and chess**.
