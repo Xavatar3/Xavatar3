@@ -1,15 +1,11 @@
-![Code Wars](https://www.codewars.com/users/Xavatar/badges/large)
+![](https://www.codewars.com/users/Xavatar/badges/large)
 
-
-[![wakatime](https://wakatime.com/badge/user/36279de1-7781-45ca-938a-825bf65fe90c.svg)](https://wakatime.com/@36279de1-7781-45ca-938a-825bf65fe90c)
-[![Stack Overflow](https://img.shields.io/badge/dynamic/json?color=orange&label=StackOverflow%20Rep&query=items%5B0%5D.reputation&url=https%3A%2F%2Fapi.stackexchange.com%2F2.3%2Fusers%2F28697856%3Fsite%3Dstackoverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/28697856/xavatar)
-![Top Language](https://img.shields.io/github/languages/top/Xavatar3)
-![Repo Size](https://img.shields.io/github/repo-size/Xavatar3/Xavatar3)
-![Last Commit](https://img.shields.io/github/last-commit/Xavatar3/Xavatar3)
-
----
-
-# Hi there, I'm Xavatar 👋
+![](https://komarev.com/ghpvc/?username=Xavatar3&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&abbreviated=true)
+![](https://img.shields.io/github/stars/Xavatar3?cacheSeconds=259200&style=for-the-badge&logo=github)
+![](https://wakatime.com/badge/user/36279de1-7781-45ca-938a-825bf65fe90c.svg?cacheSeconds=259200&style=for-the-badge&label=WakaTime&logo=github&logoWidth=100)
+![](https://img.shields.io/badge/dynamic/json?cacheSeconds=259200&color=F58025&label=StackOverflow&style=for-the-badge&query=items%5B0%5D.reputation&url=https%3A%2F%2Fapi.stackexchange.com%2F2.3%2Fusers%2F28697856%3Fsite%3Dstackoverflow&logo=stackoverflow)
+![](https://github-profile-trophy.vercel.app/?username=Xavatar3&theme=flat&no-frame=true)
+![](https://github-readme-stats.vercel.app/api?username=Xavatar3&show_icons=true&hide_border=true)
 
 ---
 
