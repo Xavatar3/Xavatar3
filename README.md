@@ -1,25 +1,18 @@
 ![](https://www.codewars.com/users/Xavatar/badges/large)
 
-![](https://komarev.com/ghpvc/?username=Xavatar3&label=Profile+Views&color=2ea043&style=for-the-badge&abbreviated=true)
-![](https://wakatime.com/badge/user/36279de1-7781-45ca-938a-825bf65fe90c.svg?cacheSeconds=259200&color=2ea043&style=for-the-badge&label=WakaTime&logo=github&width=10)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavatar3&layout=compact&hide_border=true&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=Xavatar3&show_icons=true&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=Xavatar3&theme=flat&no-frame=true)
+![](https://komarev.com/ghpvc/?username=Xavatar3&label=Views&color=2ea043&style=for-the-badge&abbreviated=true)
+![](https://wakatime.com/badge/user/36279de1-7781-45ca-938a-825bf65fe90c.svg?color=2ea043&style=for-the-badge)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Xavatar3&theme=github-dark)
 
-## 🌟 About Me
-I’m an **insatiable philomath** and **tech explorer** with a deep passion for **science, computers, and chess**.
-I thrive on **learning, experimenting, and building** projects across multiple domains.
+## 🪐 About Me
 
-- 💻 **Tech Stack:** JavaScript, Python
-- 🔬 **Interests:** Neuroscience, Molecular Biology, Quantum Computing, Bioinformatics, Computer Science, Electrical Engineering, Space Physics, History, Linguistics, Robotics
-- 🌍 **Lifestyle:** Constantly exploring new technologies, systems, and ideas
-- 🧩 **Focus:** Creative problem-solving, deep research, and continuous knowledge exploration
+I'm Xavatar—a generalist, tech explorer, self-acclaimed mad scientist 🧪, maker 🛠️—and, on rare occasions, the system. 😄
 
----
+I have a deep fascination with science 🔬, computers 💻, and puzzles 🧩. I enjoy learning 📖📚, experimenting ⚗️, teaching 🎓, and building stuff across all sorts of domains. If something sparks my curiosity, I'll probably dive into it. Most of my projects originate from either "Why?" or "What if?" 🤔
 
-## 🪐 Vision & Goals
-I hope to create meaningful, high-impact projects at the intersection of *AI*, *biology*, and *automation*, while inspiring others to pursue ambitious learning journeys. My motto: **“Learn, experiment, grow!”**
+I prefer building things from first principles. I believe the best way to understand a system is to build one... or become one. (Singularity, right? 😄)
+
+I don't chase trends. I do what I want😌.
 
 ---
 
