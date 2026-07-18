@@ -8,11 +8,65 @@
 
 I'm Xavatar—a generalist, tech explorer, self-acclaimed mad scientist 🧪, maker 🛠️—and, on rare occasions, the system. 😄
 
-I have a deep fascination with science 🔬, computers 💻, and puzzles 🧩. I enjoy learning 📖📚, experimenting ⚗️, teaching 🎓, and building stuff across all sorts of domains. If something sparks my curiosity, I'll probably dive into it. Most of my projects originate from either "Why?" or "What if?" 🤔
+I have a deep fascination with science 🔬, computers 💻, and puzzles 🧩. I enjoy learning 📖📚, experimenting ⚗️, teaching 🎓, and building stuff across all kinds of domains. If something sparks my curiosity, I'll probably dive into it. Most of my projects originate from either **"Why?"** or **"What if?"** 🤔
 
-I prefer building things from first principles. I believe the best way to understand a system is to build one... or become one. (Singularity, right? 😄)
+I prefer building things from first principles. I believe the best way to understand a system is to build one... or become one. *(Singularity, right? 😄)*
 
 I don't chase trends. I do what I want😌.
+
+---
+
+## 🧪 Experiments & Builds
+
+> Most of my projects start as experiments. Some become tools, some become lessons.
+
+- ⌨️ **AtlasKeys** — Custom Android keyboard exploring IME development and mobile interfaces.
+- 💎 **Sapphire** — Experimenting with converting web structures into programmable representations.
+- ⚙️ **Programming Language** — Exploring parsers, interpreters, and language design.
+- 🧊 **Graphics Experiments** — Exploring 3D visualization and interactive systems.
+
+---
+
+## 🔭 Currently Exploring
+
+Chasing curiosity down every rabbit hole: 🕳️
+
+- ⚙️ How computers work beneath the surface.
+- 🧪 How languages, compilers, and systems are designed—and why they work the way they do.
+- 🧠 How intelligence can emerge from algorithms and biology.
+- 🧬 How computation can help us understand life itself.
+- 🌐 How virtual worlds and simulations are built.
+- 🔐 How systems break—and how they can be made stronger.
+
+∞ Endless 🕳️
+
+---
+
+## 🌙 Outside the System
+
+You'll probably find me:
+
+- 👻 Reading web novels.
+- 📚 Trying to understand research papers.
+- 🎬 Watching anime.
+- ♟️ Playing chess. Lots of chess. Still mediocre. 😤
+- あ Practicing Arabic, Spanish, Japanese, or... 🥶 Mandarin.
+- 🎲 Wandering through physics, history, biology, or whatever happens to capture my curiosity.
+- 🕌 Quiet moments of reflection.
+- 💭 Daydreaming... turning impossible ideas into questionable experiments and accidental projects.
+---
+
+🕸️ For the Love of Science
+
+I'm drawn to like-minded people who ask difficult questions, challenge assumptions, push boundaries, and build things simply to understand how they work—even if they seem impossible or completely insane. Those are usually the ideas worth pursuing.
+
+Whether it's an ambitious idea, an unusual experiment, or a problem that refuses to be solved, count me in. Normal has never been particularly interesting... or even been normal.
+
+If that sounds unreasonable...
+
+Good. 😌
+
+Gagagaaa... 😈
 
 ---
 
@@ -43,22 +97,6 @@ I love collaborating and sharing knowledge! If you want to contribute, suggest a
 
 ---
 
-## 📚 Learning & Research
-I’m always diving into new topics and trying to understand them deeply:
-
-- **Computing & Programming:** System Architecture, Automation, AI/ML
-- **Biology & Chemistry:** Neuroscience, Molecular Biology, Pharmacology
-- **Physics & Math:** Quantum Mechanics, Time, Complex Systems
-
----
-
-## 🌱 Currently Learning
-- Basic **Ethical Hacking Techniques**
-- Mobile & PC **Automation Frameworks**
-- Integrating **AI with Real-World Projects**
-
----
-
 ## 🎯 Hobbies & Interests
 - 🎬 **Anime:** *Eminence in Shadow*, *Attack on Titan*, *Demon Slayer*
 - ♟️ **Chess** – strategic thinking and pattern recognition
@@ -72,15 +110,6 @@ I’m always diving into new topics and trying to understand them deeply:
 
 ## ⚡ Fun Fact
 I’m a **knowledge glutton** — always consuming, experimenting, and exploring new ideas across every domain I can reach.
-
----
-
-## 🧩 Favorite Resources
-- [arXiv](https://arxiv.org/) — the frontier of research papers
-- [realpython.com](https://realpython.com/) — great Python tutorials
-- [Stanford Online](https://online.stanford.edu/) — free learning materials
-- [BioStars](https://www.biostars.org/) — bioinformatics Q&A
-- [Chess.com](https://chess.com/) — where I sharpen my strategy
 
 ---
 
