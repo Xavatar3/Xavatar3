@@ -10,7 +10,7 @@ I'm Xavatar—a generalist, tech explorer, self-acclaimed mad scientist 🧪, ma
 
 I have a deep fascination with science 🔬, computers 💻, and puzzles 🧩. I enjoy learning 📖📚, experimenting ⚗️, teaching 🎓, and building stuff across all kinds of domains. If something sparks my curiosity, I'll probably dive into it. Most of my projects originate from either **"Why?"** or **"What if?"** 🤔
 
-I prefer building things from first principles. I believe the best way to understand a system is to build one... or become one. *(Singularity, right? 😄)*
+I prefer building things from first principles. I believe the best way to understand a system is to build one... or become one. *(Singularity, right?* 😄*)*
 
 I don't chase trends. I do what I want😌.
 
